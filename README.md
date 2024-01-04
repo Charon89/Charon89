@@ -19,9 +19,9 @@
 ## A Web Developer!
 
 - 📍 Based in Canada (Ontario)
-- 💻 6+ Years Experience in Front-end Development
-- 👨‍💻 Front-end Enthusiast & Volunteer
-- 📚 Life-time learne
+- 💻 6+ Years Experience in web Development
+- 👨‍💻 Web development Enthusiast & Volunteer
+- 📚 Life-time learner
 
 
 ### 🤝 Connect with me:
