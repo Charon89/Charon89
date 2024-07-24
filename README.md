@@ -63,6 +63,7 @@
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/figma-a259ff.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="Adobe Xd" src="https://img.shields.io/badge/adobe_XD-450036.svg?&style=for-the-badge&logo=adobe-xd&logoColor=fff" />&nbsp;
 
 [instagram]: https://instagram.com/damian_andrius
 [linkedin]: https://linkedin.com/in/dmytro-andriushchenko-305798190
