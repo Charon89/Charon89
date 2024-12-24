@@ -23,6 +23,8 @@
 - 👨‍💻 Web development Enthusiast & Volunteer
 - 📚 Life-time learner
 - 🌐 Full-Stack Developer
+- 🔧 Problem Solver
+- 💡 Innovative Thinker
 
 
 ### 🤝 Connect with me:
@@ -82,3 +84,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![snake gif](https://github.com/Charon89/Charon89/blob/output/github-snake.svg)
+
