@@ -22,6 +22,7 @@
 - 💻 6+ Years Experience in web Development
 - 👨‍💻 Web development Enthusiast & Volunteer
 - 📚 Life-time learner
+- 🌐 Full-Stack Developer
 
 
 ### 🤝 Connect with me:
