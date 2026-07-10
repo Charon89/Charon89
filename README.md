@@ -17,10 +17,6 @@
 - **[AI integration](https://dandrius.dev/services/ai-integration)** — add assistants, agents, RAG, and MCP to your product
 - **[Web development](https://dandrius.dev/services/web-development)** · **[E-commerce](https://dandrius.dev/services/ecommerce)**
 
-### 🛠 A recent build I'm proud of
-
-A Windows-98-styled cloud desktop with a Claude-powered copilot: an agentic tool loop over invoicing, notes, and files — one-tap write confirmations, streaming replies, and voice dictation. Next.js + MongoDB + Anthropic SDK, deployed on Vercel.
-
 ### 🤝 Connect with me:
 
 [<img alt="Charon89 | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
