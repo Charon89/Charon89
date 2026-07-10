@@ -1,37 +1,31 @@
-<!--
-<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png">
+### Hi all, I'm Dmytro 👋
 
-<div align="center">
-  <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/YauhenKavalchuk">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a>
-  <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a>
-  <a href="https://github.com/YauhenKavalchuk">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
--->
-### Hi all, I'm Dmytro  👋 
+## A Full-Stack Web Developer!
 
-## A Web Developer!
-
-- 📍 Based in Canada (Ontario)
-- 💻 6+ Years Experience in web Development
-- 👨‍💻 Web development Enthusiast & Volunteer
-- 📚 Life-time learner
-- 🌐 Full-Stack Developer
+- 📍 Based in Canada (Ontario), working remotely worldwide
+- 💻 6+ years of experience in web development
+- 🚀 36+ websites and web applications delivered since 2019
+- 🌐 Full-Stack: React, Next.js, TypeScript, Node.js
+- 🤖 Now also building AI-powered products: agents with tool use, RAG pipelines, MCP servers, and LLM integrations (Claude, OpenAI)
 - 🔧 Problem Solver
-- 💡 Innovative Thinker
+- 📚 Life-time learner
+- 🔒 Most client work lives in private repos — the results are on my portfolio
 
+### 🌐 Portfolio & services
+
+- **[dandrius.dev](https://dandrius.dev)** — my portfolio, styled as a working VS Code IDE (yes, the terminal works)
+- **[AI integration](https://dandrius.dev/services/ai-integration)** — add assistants, agents, RAG, and MCP to your product
+- **[Web development](https://dandrius.dev/services/web-development)** · **[E-commerce](https://dandrius.dev/services/ecommerce)**
+
+### 🛠 A recent build I'm proud of
+
+A Windows-98-styled cloud desktop with a Claude-powered copilot: an agentic tool loop over invoicing, notes, and files — one-tap write confirmations, streaming replies, and voice dictation. Next.js + MongoDB + Anthropic SDK, deployed on Vercel.
 
 ### 🤝 Connect with me:
 
-
-[<img alt="Charon89 | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Charon89 | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="dandrius.dev" src="https://img.shields.io/badge/dandrius.dev-FF79C6.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" />][website]
+[<img alt="Charon89 | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 ---
 
@@ -41,49 +35,48 @@
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
-<img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
+### 🤖 AI & LLM:
+
+<img alt="Claude API" src="https://img.shields.io/badge/Claude_API-191919.svg?&style=for-the-badge&logo=anthropic&logoColor=fff" />&nbsp;
+<img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991.svg?&style=for-the-badge&logo=openai&logoColor=fff" />&nbsp;
+<img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-FF79C6.svg?&style=for-the-badge" />&nbsp;
+<img alt="RAG" src="https://img.shields.io/badge/RAG-BD93F9.svg?&style=for-the-badge" />&nbsp;
+<img alt="MCP" src="https://img.shields.io/badge/MCP_servers-50FA7B.svg?&style=for-the-badge" />&nbsp;
+<img alt="Vector Search" src="https://img.shields.io/badge/Vector_Search-8BE9FD.svg?&style=for-the-badge" />&nbsp;
+
 ### 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
+<img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
+<img alt="vercel" src="https://img.shields.io/badge/vercel-000.svg?&style=for-the-badge&logo=vercel&logoColor=fff" />&nbsp;
+<img alt="aws" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-<img alt="heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/figma-a259ff.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
-<img alt="Adobe Xd" src="https://img.shields.io/badge/adobe_XD-450036.svg?&style=for-the-badge&logo=adobe-xd&logoColor=fff" />&nbsp;
 
+[website]: https://dandrius.dev
 [instagram]: https://instagram.com/damian_andrius
-[linkedin]: https://linkedin.com/in/dmytro-andriushchenko-305798190
-<!--
-**Charon89/Charon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/dandrius/
 
 ![snake gif](https://github.com/Charon89/Charon89/blob/output/github-snake.svg)
 
+---
