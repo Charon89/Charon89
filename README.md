@@ -4,7 +4,7 @@
 
 - 📍 Based in Canada (Ontario), working remotely worldwide
 - 💻 6+ years of experience in web development
-- 🚀 36+ websites and web applications delivered since 2019
+- 🚀 150+ websites and web applications delivered
 - 🌐 Full-Stack: React, Next.js, TypeScript, Node.js
 - 🤖 Now also building AI-powered products: agents with tool use, RAG pipelines, MCP servers, and LLM integrations (Claude, OpenAI)
 - 🔧 Problem Solver
